@@ -1,0 +1,15 @@
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\bin\Debug\packman.exe.config
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\bin\Debug\packman.exe
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\bin\Debug\packman.pdb
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.csproj.AssemblyReference.cache
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\MainWindow.g.cs
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\App.g.cs
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman_MarkupCompile.cache
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman_MarkupCompile.lref
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\MainWindow.baml
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.g.resources
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.Properties.Resources.resources
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.csproj.GenerateResource.cache
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.csproj.CoreCompileInputs.cache
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.exe
+C:\Users\Allegiant\Desktop\КИТ\ИСРПО\game_packman\packman\packman\obj\Debug\packman.pdb
